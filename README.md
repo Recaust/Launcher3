@@ -1,3 +1,5 @@
+This is unsupported software!
+
 # Rootless Pixel Launcher
 By Amir Zaidi
 
