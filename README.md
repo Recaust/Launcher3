@@ -1,3 +1,5 @@
+# This project is UNMAINTAINED
+
 This is unsupported software!
 
 # Rootless Pixel Launcher
